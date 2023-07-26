@@ -1,3 +1,7 @@
-# Git Started with GitHub
+# Description
+This project is a simple validation form built using HTML, CSS, and JavaScript. The form aims to validate user input for various fields and provide real-time error feedback to the user.
 
-About Git:- Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+# Features
+Input validation for name, email, and password fields with pattern.
+Error messages are displayed for invalid inputs.
+Real-time validation as the user types.
